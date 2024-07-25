@@ -1,4 +1,3 @@
-import { match } from 'assert'
 import { NextRequest, NextResponse } from 'next/server'
 import { isValidPassword } from './lib/isValidPassword'
 
